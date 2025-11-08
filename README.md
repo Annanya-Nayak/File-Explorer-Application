@@ -8,14 +8,14 @@ system to manage files and directories.
 Day 1: Design the application
 structure and setup the development
 environment. Start with basic file
-operations like listing files in a directory
+operations like listing files in a directory.
 
 Day 2: Implement file and directory
 navigation features. Enable the user to
 move through directories.
 
 Day 3: Add file manipulation
-capabilities (copy, move, delete, create)
+capabilities (copy, move, delete, create).
 
 Day 4: Implement file search
 functionality within the file explorer.
