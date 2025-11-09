@@ -1,0 +1,10 @@
+#include <iostream>
+#include <cstdlib>
+using namespace std;
+
+int main() {
+    cout << "=== FILE EXPLORER: DAY 1 ===\n";
+    cout << "Listing files in current directory:\n\n";
+    system("ls");
+    return 0;
+}
